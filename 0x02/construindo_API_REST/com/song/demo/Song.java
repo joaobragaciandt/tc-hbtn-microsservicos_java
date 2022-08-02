@@ -76,4 +76,15 @@ public class Song {
         result = 31 * result + (getAnoLancamento() != null ? getAnoLancamento().hashCode() : 0);
         return result;
     }
+
+    @java.lang.Override
+    public java.lang.String toString() {
+        return "Song{" +
+                "id=" + id +
+                ", nome='" + nome + '\'' +
+                ", artista='" + artista + '\'' +
+                ", album='" + album + '\'' +
+                ", anoLancamento='" + anoLancamento + '\'' +
+                '}';
+    }
 }
