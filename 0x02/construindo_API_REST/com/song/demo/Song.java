@@ -77,8 +77,8 @@ public class Song {
         return result;
     }
 
-    @java.lang.Override
-    public java.lang.String toString() {
+
+    public String toString() {
         return "Song{" +
                 "id=" + id +
                 ", nome='" + nome + '\'' +
