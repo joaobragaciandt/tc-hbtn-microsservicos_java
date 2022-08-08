@@ -20,9 +20,7 @@ public class MegaSenaController {
     @GetMapping("/getNumbers")
     public List<Integer> numerosMegaSena() {
         Random rnd = new Random();
-        ArrayList<Integer> listaSorteador = rnd.ints(6, 1, 60)
-                .boxed().collect(Collectors.toCollection(ArrayList::new));
-        listaSorteador.sort(Comparator.naturalOrder());
-        return listaSorteador;
+        return rnd.ints(6, 1, 60)
+                .boxed().sorted(Comparator.naturalOrder()).collect(Collectors.toCollection(ArrayList::new));
     }
 }
