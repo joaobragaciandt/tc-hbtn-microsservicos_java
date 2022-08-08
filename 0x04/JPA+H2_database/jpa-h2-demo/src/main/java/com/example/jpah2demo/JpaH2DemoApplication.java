@@ -1,13 +1,13 @@
-package com.techCamps.demo;
+package com.example.jpah2demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class JpaH2DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(JpaH2DemoApplication.class, args);
 	}
 
 }
