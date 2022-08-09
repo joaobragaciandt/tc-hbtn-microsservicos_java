@@ -20,7 +20,8 @@ public class UserController {
         if(id>=0 && id<=100) {
             msg = "You have entered valid ID";
         } else {
-            throw new UserIdException();
+            msg = String.valueOf(id);
+            throw new UserIdException(msg);
         }
         return msg;
     }
@@ -32,7 +33,7 @@ public class UserController {
         if(userName.length()>3 && userName.length()<100) {
             msg = "You have entered valid USERNAME";
         } else {
-            throw new UserNameException();
+            throw new UserNameException(userName);
         }
         return msg;
     }
@@ -45,7 +46,7 @@ public class UserController {
         if(isCPFValid){
             msg = "You have entered valid CPF";
         }else {
-            throw new CPFException();
+            throw new CPFException(cpf);
         }
         return msg;
 
