@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a7c3df89-56bb-48aa-ae31-62c8d6e3c889" name="Changes" comment="Att do projeto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/user/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/user/exception/CPFException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/user/exception/CPFException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/user/exception/UserIdException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/user/exception/UserIdException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/user/exception/UserNameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/user/exception/UserNameException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/ExceptionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/user/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/exception/CPFException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/user/exception/CPFException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/exception/UserIdException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/user/exception/UserIdException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/exception/UserNameException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/user/exception/UserNameException.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_directory_selection": "/home/joaobraga/Coding/tc-hbtn-microsservicos_java/0x06/api-rest-userController/src/main/java/com/example/user",
-    "last_opened_file_path": "/home/joaobraga/Coding/tc-hbtn-microsservicos_java/0x06/api-rest-userController"
+    "last_opened_file_path": "/home/joaobraga/Coding/tc-hbtn-microsservicos_java/0x07/api-rest-calculator"
   }
 }]]></component>
   <component name="RunManager">
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660060282916</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Att do projeto">
+      <created>1660060621803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660060621803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
