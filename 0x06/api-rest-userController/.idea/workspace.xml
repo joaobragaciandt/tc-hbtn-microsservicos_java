@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7c3df89-56bb-48aa-ae31-62c8d6e3c889" name="Changes" comment="Att do projeto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/ExceptionService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/user/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/exception/CPFException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/user/exception/CPFException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/exception/UserIdException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/user/exception/UserIdException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/user/exception/UserNameException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/user/exception/UserNameException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0x07/api-rest-calculator/src/main/java/com/example/calculator/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0x07/api-rest-calculator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0x07/api-rest-calculator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0x07/api-rest-calculator/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../0x07/api-rest-calculator/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0x07/api-rest-calculator/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../0x07/api-rest-calculator/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0x07/api-rest-calculator/target/classes/com/example/calculator/CalculatorApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0x07/api-rest-calculator/target/test-classes/com/example/calculator/CalculatorApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_directory_selection": "/home/joaobraga/Coding/tc-hbtn-microsservicos_java/0x06/api-rest-userController/src/main/java/com/example/user",
-    "last_opened_file_path": "/home/joaobraga/Coding/tc-hbtn-microsservicos_java/0x07/api-rest-calculator"
+    "last_opened_file_path": "/home/joaobraga/Coding/tc-hbtn-microsservicos_java/0x05/MegaSenaAPI"
   }
 }]]></component>
   <component name="RunManager">
